@@ -8,3 +8,10 @@ Bij dit projectje komen de volgende onderwerpen aan bod:
 - Een website serveren.
 - HTML/CSS.
 - Het opslaan van wachtwoorden.
+
+# Werkomgeving opzetten
+```
+pip3 install --user pipenv
+pipenv install tornado
+pipenv shell
+```
